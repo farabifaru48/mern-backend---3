@@ -1,0 +1,3 @@
+const SERVER_RUNNING_PORT = 8080;
+
+module.exports = SERVER_RUNNING_PORT;
